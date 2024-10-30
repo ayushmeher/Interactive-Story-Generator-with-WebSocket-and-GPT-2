@@ -1,0 +1,5 @@
+transformers
+rich
+pyttsx3
+websockets
+torch
